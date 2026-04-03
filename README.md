@@ -1,4 +1,4 @@
-# digital-electronics-notes
+# digital-electronics-riscv-cpu-learning
 
 数电学习笔记
 本科学习懒惰的债迟早是要还的
